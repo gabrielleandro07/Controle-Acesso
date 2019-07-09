@@ -1,0 +1,16 @@
+ADMIN
+
+login: admin
+senha: 123456
+
+login: teste
+senha: 123456
+
+
+
+
+
+BASICO
+
+login: basico
+senha: 123456
